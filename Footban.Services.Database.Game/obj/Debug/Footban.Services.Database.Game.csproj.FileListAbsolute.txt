@@ -1,0 +1,3 @@
+C:\GitHub Projects\Footbanv.Services\Footban.Services.Database.Game\bin\Debug\Footban.Services.Database.Game.dll
+C:\GitHub Projects\Footbanv.Services\Footban.Services.Database.Game\bin\Debug\Orleans.dll
+C:\GitHub Projects\Footbanv.Services\Footban.Services.Database.Game\bin\Debug\Orleans.xml
