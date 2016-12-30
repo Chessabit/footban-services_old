@@ -1,5 +1,8 @@
 language: csharp
 solution: Footban.Services.sln
-branches:
-  only:
-    - master
+matrix:
+  include:
+    - dotnet: 1.0.0-preview2-003121
+      mono: none
+      env: DOTNETCORE=1
+    - mono: latest
