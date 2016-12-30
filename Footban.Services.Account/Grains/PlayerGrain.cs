@@ -24,7 +24,7 @@ namespace Footban.Services.Account.Grains
 
         public override Task OnActivateAsync()
         {
-            _streamProvider = this.GetStreamProvider("MatchMakingStream");
+            _streamProvider = GetStreamProvider("MatchMakingStream");
             return TaskDone.Done;
         }
 
