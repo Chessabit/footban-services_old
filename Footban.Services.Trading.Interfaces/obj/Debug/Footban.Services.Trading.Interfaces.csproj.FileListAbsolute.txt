@@ -1,0 +1,4 @@
+C:\GitHub Projects\footban-services\Footban.Services.Trading.Interfaces\bin\Debug\Footban.Services.Trading.Interfaces.dll
+C:\GitHub Projects\footban-services\Footban.Services.Trading.Interfaces\bin\Debug\Orleans.dll
+C:\GitHub Projects\footban-services\Footban.Services.Trading.Interfaces\bin\Debug\Orleans.xml
+C:\GitHub Projects\footban-services\Footban.Services.Trading.Interfaces\obj\Debug\Footban.Services.Trading.Interfaces.csprojResolveAssemblyReference.cache
