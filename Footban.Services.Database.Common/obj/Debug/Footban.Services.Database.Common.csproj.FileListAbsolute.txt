@@ -1,3 +1,0 @@
-C:\GitHub Projects\footban-services\Footban.Services.Database.Common\bin\Debug\Footban.Services.Database.Common.dll
-C:\GitHub Projects\footban-services\Footban.Services.Database.Common\bin\Debug\Orleans.dll
-C:\GitHub Projects\footban-services\Footban.Services.Database.Common\bin\Debug\Orleans.xml
