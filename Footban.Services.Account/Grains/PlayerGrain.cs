@@ -2,9 +2,9 @@
 using System.Threading.Tasks;
 using System;
 using Orleans.Streams;
-using Footban.Services.Account.Model.;
 using Footban.Services.Account.Model.State;
 using Footban.Services.Account.Model.Streams;
+using Footban.Services.Account.Interfaces.Grains;
 
 namespace Footban.Services.Account.Grains
 {

@@ -1,0 +1,3 @@
+C:\GitHub Projects\footban-services\Footban.Services.Account.Interfaces\bin\Debug\Footban.Services.Account.Interfaces.dll
+C:\GitHub Projects\footban-services\Footban.Services.Account.Interfaces\bin\Debug\Orleans.dll
+C:\GitHub Projects\footban-services\Footban.Services.Account.Interfaces\bin\Debug\Orleans.xml

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Services.Database.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Services.Database.Game", "Footban.Services.Database.Game\Footban.Services.Database.Game.csproj", "{1A2B3767-F79C-4E90-8185-111126C6147F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Services.Account.Interfaces", "Footban.Services.Account.Interfaces\Footban.Services.Account.Interfaces.csproj", "{9FB64D4E-A910-4624-B73F-BE09E40C7708}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1A2B3767-F79C-4E90-8185-111126C6147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A2B3767-F79C-4E90-8185-111126C6147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A2B3767-F79C-4E90-8185-111126C6147F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB64D4E-A910-4624-B73F-BE09E40C7708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB64D4E-A910-4624-B73F-BE09E40C7708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB64D4E-A910-4624-B73F-BE09E40C7708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB64D4E-A910-4624-B73F-BE09E40C7708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

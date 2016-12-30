@@ -1,3 +1,6 @@
 C:\GitHub Projects\Footbanv.Services\Footban.Services.Game\bin\Debug\Footban.Services.Game.dll
 C:\GitHub Projects\Footbanv.Services\Footban.Services.Game\bin\Debug\Orleans.dll
 C:\GitHub Projects\Footbanv.Services\Footban.Services.Game\bin\Debug\Orleans.xml
+C:\GitHub Projects\footban-services\Footban.Services.Game\bin\Debug\Footban.Services.Game.dll
+C:\GitHub Projects\footban-services\Footban.Services.Game\bin\Debug\Orleans.dll
+C:\GitHub Projects\footban-services\Footban.Services.Game\bin\Debug\Orleans.xml
