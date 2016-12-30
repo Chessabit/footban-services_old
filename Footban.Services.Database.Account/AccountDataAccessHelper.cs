@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Footban.Services.Database.Account
 {
-    public class AccountDataAccessHelper
+    public class AccountDataAccessLayer : IAccountDataAccessLayer
     {
         public async Task<LogInResponse> LoginAsync(LogInRequest request)
         {
