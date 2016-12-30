@@ -9,13 +9,11 @@ using Footban.Services.Account.Interfaces.Grains;
 namespace Footban.Services.Account.Grains
 {
 
-    public class PlayerGrain : 
-        Grain<PlayerState>, 
+    public class PlayerGrain : Grain<PlayerState>, 
         IPlayerGrain, 
         IAsyncObserver<MatchMakingPayload>
     {
         private IStreamProvider _streamProvider;
-
         public Task LogOut()
         {
             DeactivateOnIdle();

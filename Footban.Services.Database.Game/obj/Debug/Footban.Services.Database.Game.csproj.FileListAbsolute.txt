@@ -2,5 +2,8 @@ C:\GitHub Projects\Footbanv.Services\Footban.Services.Database.Game\bin\Debug\Fo
 C:\GitHub Projects\Footbanv.Services\Footban.Services.Database.Game\bin\Debug\Orleans.dll
 C:\GitHub Projects\Footbanv.Services\Footban.Services.Database.Game\bin\Debug\Orleans.xml
 C:\GitHub Projects\footban-services\Footban.Services.Database.Game\bin\Debug\Footban.Services.Database.Game.dll
+C:\GitHub Projects\footban-services\Footban.Services.Database.Game\bin\Debug\Footban.Services.Database.Game.pdb
 C:\GitHub Projects\footban-services\Footban.Services.Database.Game\bin\Debug\Orleans.dll
 C:\GitHub Projects\footban-services\Footban.Services.Database.Game\bin\Debug\Orleans.xml
+C:\GitHub Projects\footban-services\Footban.Services.Database.Game\obj\Debug\Footban.Services.Database.Game.dll
+C:\GitHub Projects\footban-services\Footban.Services.Database.Game\obj\Debug\Footban.Services.Database.Game.pdb

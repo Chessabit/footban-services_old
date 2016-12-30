@@ -2,7 +2,7 @@
 
 namespace Footban.Services.Account.Model.State
 {
-    public class PlayerState : GrainState
+    public class PlayerState 
     {
     }
 }

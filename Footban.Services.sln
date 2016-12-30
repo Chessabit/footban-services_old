@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Sandbox", "Footbanv.Services\Footban.Sandbox.csproj", "{BF2E545E-C1E0-4654-9035-32C293E265D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Silo", "Footbanv.Services\Footban.Silo.csproj", "{BF2E545E-C1E0-4654-9035-32C293E265D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Services.Account", "Footban.Services.Account\Footban.Services.Account.csproj", "{C2F1453B-B4C4-4446-B73E-694950EBCD91}"
 EndProject

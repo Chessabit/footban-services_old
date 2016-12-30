@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Footban.Services.Database.Account.Model.Request
 {
-    class LogInRequest
+    public class LogInRequest
     {
     }
 }
