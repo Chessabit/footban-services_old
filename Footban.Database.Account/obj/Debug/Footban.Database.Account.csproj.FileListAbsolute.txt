@@ -5,11 +5,10 @@ C:\GitHub Projects\footban-services\Footban.Services.Database.Account\bin\Debug\
 C:\GitHub Projects\footban-services\Footban.Services.Database.Account\obj\Debug\Footban.Database.Account.csprojResolveAssemblyReference.cache
 C:\GitHub Projects\footban-services\Footban.Services.Database.Account\obj\Debug\Footban.Services.Database.Account.dll
 C:\GitHub Projects\footban-services\Footban.Services.Database.Account\obj\Debug\Footban.Services.Database.Account.pdb
-C:\GitHub Projects\footban-services\Footban.Database.Account\bin\Debug\Footban.Services.Database.Account.dll
-C:\GitHub Projects\footban-services\Footban.Database.Account\bin\Debug\Footban.Services.Database.Account.pdb
 C:\GitHub Projects\footban-services\Footban.Database.Account\bin\Debug\Orleans.dll
 C:\GitHub Projects\footban-services\Footban.Database.Account\bin\Debug\Orleans.xml
 C:\GitHub Projects\footban-services\Footban.Database.Account\obj\Debug\Footban.Database.Account.csprojResolveAssemblyReference.cache
-C:\GitHub Projects\footban-services\Footban.Database.Account\obj\Debug\Footban.Services.Database.Account.dll
-C:\GitHub Projects\footban-services\Footban.Database.Account\obj\Debug\Footban.Services.Database.Account.pdb
 C:\GitHub Projects\footban-services\Footban.Database.Account\bin\Debug\Footban.Database.Account.dll
+C:\GitHub Projects\footban-services\Footban.Database.Account\bin\Debug\Footban.Database.Account.pdb
+C:\GitHub Projects\footban-services\Footban.Database.Account\obj\Debug\Footban.Database.Account.dll
+C:\GitHub Projects\footban-services\Footban.Database.Account\obj\Debug\Footban.Database.Account.pdb

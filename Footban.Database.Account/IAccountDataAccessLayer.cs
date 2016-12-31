@@ -12,5 +12,8 @@ namespace Footban.Database.Account
         /// <param name="request"></param>
         /// <returns></returns>
         Task<LogInResponse> LoginAsync(LogInRequest request);
+
+        Task<HydratePlayerStateResponse> HydrateAsync(int playerId);
+       
     }
 }
