@@ -13,3 +13,4 @@ C:\GitHub Projects\footban-services\Footban.Account\obj\Debug\Footban.Services.A
 C:\GitHub Projects\footban-services\Footban.Account\bin\Debug\Footban.Account.dll
 C:\GitHub Projects\footban-services\Footban.Account\bin\Debug\Orleans.dll
 C:\GitHub Projects\footban-services\Footban.Account\bin\Debug\Orleans.xml
+C:\GitHub Projects\footban-services\Footban.Account\bin\Debug\Footban.Account.Interfaces.dll

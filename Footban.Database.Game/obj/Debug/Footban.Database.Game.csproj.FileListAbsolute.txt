@@ -12,3 +12,4 @@ C:\GitHub Projects\footban-services\Footban.Database.Game\bin\Debug\Orleans.xml
 C:\GitHub Projects\footban-services\Footban.Database.Game\obj\Debug\Footban.Database.Game.csprojResolveAssemblyReference.cache
 C:\GitHub Projects\footban-services\Footban.Database.Game\obj\Debug\Footban.Services.Database.Game.dll
 C:\GitHub Projects\footban-services\Footban.Database.Game\obj\Debug\Footban.Services.Database.Game.pdb
+C:\GitHub Projects\footban-services\Footban.Database.Game\bin\Debug\Footban.Database.Game.dll

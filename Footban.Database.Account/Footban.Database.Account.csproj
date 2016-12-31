@@ -7,8 +7,8 @@
     <ProjectGuid>{93D2EAFE-9C9F-403A-B7D1-146CF1076AD5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Footban.Services.Database.Account</RootNamespace>
-    <AssemblyName>Footban.Services.Database.Account</AssemblyName>
+    <RootNamespace>Footban.Database.Account</RootNamespace>
+    <AssemblyName>Footban.Database.Account</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

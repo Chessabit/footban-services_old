@@ -7,8 +7,8 @@
     <ProjectGuid>{D147DB99-1719-437A-841E-15735B6BD553}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Footban.Services.Trading.Interfaces</RootNamespace>
-    <AssemblyName>Footban.Services.Trading.Interfaces</AssemblyName>
+    <RootNamespace>Footban.Trading.Interfaces</RootNamespace>
+    <AssemblyName>Footban.Trading.Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>

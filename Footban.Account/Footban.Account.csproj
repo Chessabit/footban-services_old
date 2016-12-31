@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Footban.Services.Account.Interfaces\Footban.Account.Interfaces.csproj">
+    <ProjectReference Include="..\Footban.Account.Interfaces\Footban.Account.Interfaces.csproj">
       <Project>{9FB64D4E-A910-4624-B73F-BE09E40C7708}</Project>
       <Name>Footban.Account.Interfaces</Name>
     </ProjectReference>

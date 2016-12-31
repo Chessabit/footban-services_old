@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using Orleans;
 
-namespace Footban.Services.Game
+namespace Footban.Game
 {
     /// <summary>
     /// Grain interface IGrain1

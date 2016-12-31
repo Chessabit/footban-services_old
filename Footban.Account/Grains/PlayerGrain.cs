@@ -14,6 +14,7 @@ namespace Footban.Account.Grains
         IAsyncObserver<MatchMakingPayload>
     {
         private IStreamProvider _streamProvider;
+
         public Task LogOut()
         {
             DeactivateOnIdle();
@@ -25,8 +26,6 @@ namespace Footban.Account.Grains
             _streamProvider = GetStreamProvider("MatchMakingStream");
             return TaskDone.Done;
         }
-
-
 
         public Task OnCompletedAsync()
         {

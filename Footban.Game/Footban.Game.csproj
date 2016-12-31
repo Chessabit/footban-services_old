@@ -7,8 +7,8 @@
     <ProjectGuid>{25E821CB-DC01-4931-8C29-9556FE68D293}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Footban.Services.Game</RootNamespace>
-    <AssemblyName>Footban.Services.Game</AssemblyName>
+    <RootNamespace>Footban.Game</RootNamespace>
+    <AssemblyName>Footban.Game</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
