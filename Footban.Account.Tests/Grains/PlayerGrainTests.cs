@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Footban.Account.Tests.Grains
 {
-    class PlayerGrainTests
+    public class PlayerGrainTests
     {
     }
 }
