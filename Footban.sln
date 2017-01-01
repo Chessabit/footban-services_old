@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Game", "Footban.Gam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Trading.Interfaces", "Footban.Trading.Interfaces\Footban.Trading.Interfaces.csproj", "{D147DB99-1719-437A-841E-15735B6BD553}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test Projects", "Test Projects", "{A875C4D5-01EB-4F55-825F-FAE09913890D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Account.Tests", "Footban.Account.Tests\Footban.Account.Tests.csproj", "{3C7EB874-D0DA-4398-B909-2E66462C1D11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,8 +55,15 @@ Global
 		{D147DB99-1719-437A-841E-15735B6BD553}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D147DB99-1719-437A-841E-15735B6BD553}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D147DB99-1719-437A-841E-15735B6BD553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7EB874-D0DA-4398-B909-2E66462C1D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7EB874-D0DA-4398-B909-2E66462C1D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7EB874-D0DA-4398-B909-2E66462C1D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7EB874-D0DA-4398-B909-2E66462C1D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C7EB874-D0DA-4398-B909-2E66462C1D11} = {A875C4D5-01EB-4F55-825F-FAE09913890D}
 	EndGlobalSection
 EndGlobal

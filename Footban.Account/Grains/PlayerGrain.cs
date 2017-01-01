@@ -6,20 +6,22 @@ using Footban.Account.Model.State;
 using Footban.Account.Model.Streams;
 using Footban.Account.Interfaces.Grains;
 using Footban.Database.Account;
+using Orleans.Runtime;
 
 namespace Footban.Account.Grains
 {
-
     public class PlayerGrain : Grain<PlayerState>, 
         IPlayerGrain, 
         IAsyncObserver<MatchMakingPayload>
     {
         private IStreamProvider _streamProvider;
         private IAccountDataAccessLayer _accountDataAccessLayer;
+        private Logger _logger; 
 
         public async override Task OnActivateAsync()
         {
             _streamProvider = GetStreamProvider("MatchMakingStream");
+            _logger = GetLogger();
             State = (await _accountDataAccessLayer.HydrateAsync(0)).State;
         }
 
@@ -41,17 +43,19 @@ namespace Footban.Account.Grains
 
         public Task OnCompletedAsync()
         {
-            throw new NotImplementedException();
+            return TaskDone.Done;
         }
 
         public Task OnErrorAsync(Exception ex)
         {
-            throw new NotImplementedException();
+            _logger.Error(0, $"Error occured when utilising match making stream caught in grain: {RuntimeIdentity}");
+            return TaskDone.Done;
         }
 
         public Task OnNextAsync(MatchMakingPayload item, StreamSequenceToken token = null)
         {
-            throw new NotImplementedException();
+            //TODO: Match making logic?
+            return TaskDone.Done;
         }
     }
 }
