@@ -1,0 +1,17 @@
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\Footban.Common.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\Orleans.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\Orleans.xml
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.abstractions.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.abstractions.xml
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.assert.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.assert.pdb
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.assert.xml
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.core.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.core.pdb
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.core.xml
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.execution.desktop.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.execution.desktop.pdb
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\xunit.execution.desktop.xml
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\NLog.dll
+C:\GitHub Projects\footban-services\Footban.Common\bin\Debug\NLog.xml
+C:\GitHub Projects\footban-services\Footban.Common\obj\Debug\Footban.Common.csprojResolveAssemblyReference.cache
