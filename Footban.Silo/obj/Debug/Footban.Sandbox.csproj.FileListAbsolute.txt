@@ -1,3 +1,0 @@
-C:\GitHub Projects\Footbanv.Services\Footbanv.Services\bin\Debug\Footbanv.Services.exe.config
-C:\GitHub Projects\footban-services\Footbanv.Services\bin\Debug\Footbanv.Services.exe.config
-C:\GitHub Projects\footban-services\Footbanv.Services\obj\Debug\Footban.Sandbox.csprojResolveAssemblyReference.cache
