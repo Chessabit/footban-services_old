@@ -7,6 +7,7 @@ using Footban.Account.Model.Streams;
 using Footban.Account.Interfaces.Grains;
 using Footban.Database.Account;
 using Orleans.Runtime;
+using Orleans.Core;
 
 namespace Footban.Account.Grains
 {
@@ -30,7 +31,10 @@ namespace Footban.Account.Grains
             _accountDataAccessLayer = new AccountDataAccessLayer();
         }
 
-        public PlayerGrain(IAccountDataAccessLayer accountDataAccessLayer)
+        public PlayerGrain(IGrainIdentity identity, 
+            IGrainRuntime runtime,
+            IAccountDataAccessLayer accountDataAccessLayer) 
+                : base(identity, runtime, null, null)
         {
             _accountDataAccessLayer = accountDataAccessLayer;
         }
