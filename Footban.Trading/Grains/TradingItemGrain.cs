@@ -13,6 +13,7 @@ namespace Footban.Trading.Grains
     public class TradingItemGrain : Grain, ITradingItemGrain
     {
         private Logger _logger;
+        
         private ObserverSubscriptionManager<ITradingItemObserver> _subscriptions;
 
         public override Task OnActivateAsync()

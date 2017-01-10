@@ -48,6 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Grains\ITradingItemGrain.cs" />
+    <Compile Include="Grains\ITradingItemLookupGrain.cs" />
+    <Compile Include="Model\TradingItem.cs" />
     <Compile Include="Observerables\ITradingItemObserver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\orleans.codegen.cs" />
