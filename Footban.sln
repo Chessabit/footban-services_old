@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Trading", "Footban.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Database.Trading", "Footban.Database.Trading\Footban.Database.Trading.csproj", "{7E74EAC7-85CF-4C56-9A1C-22A13AAD76E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footban.Database.Common", "Footban.Database.Common\Footban.Database.Common.csproj", "{4BF253D9-AE8C-434C-A001-20B4353B236F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{7E74EAC7-85CF-4C56-9A1C-22A13AAD76E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E74EAC7-85CF-4C56-9A1C-22A13AAD76E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E74EAC7-85CF-4C56-9A1C-22A13AAD76E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF253D9-AE8C-434C-A001-20B4353B236F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF253D9-AE8C-434C-A001-20B4353B236F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF253D9-AE8C-434C-A001-20B4353B236F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF253D9-AE8C-434C-A001-20B4353B236F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
