@@ -56,6 +56,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Footban.Database.Trading\Footban.Database.Trading.csproj">
+      <Project>{7E74EAC7-85CF-4C56-9A1C-22A13AAD76E8}</Project>
+      <Name>Footban.Database.Trading</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Footban.Trading.Interfaces\Footban.Trading.Interfaces.csproj">
       <Project>{d147db99-1719-437a-841e-15735b6bd553}</Project>
       <Name>Footban.Trading.Interfaces</Name>

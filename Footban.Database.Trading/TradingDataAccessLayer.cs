@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Footban.Database.Trading
 {
-    public interface ITradingDataAccessLayer
+    public class TradingDataAccessLayer : ITradingDataAccessLayer
     {
-
     }
 }
