@@ -47,7 +47,9 @@
     <Compile Include="Model\Response\Data\TradingItemData.cs" />
     <Compile Include="Model\Response\FilterTradingItemsResponse.cs" />
     <Compile Include="Model\Response\HydrateTradingItemResponse.cs" />
+    <Compile Include="Model\State\ItemTypes\PlayerCard.cs" />
     <Compile Include="Model\State\TradingItemState.cs" />
+    <Compile Include="Model\State\ItemTypes\BaseItemState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TradingDataAccessLayer.cs" />
   </ItemGroup>
