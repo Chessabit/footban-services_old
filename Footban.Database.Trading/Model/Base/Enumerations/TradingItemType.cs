@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Footban.Database.Trading.Model.State.ItemTypes
+namespace Footban.Database.Trading.Model.Base.Enumerations
 {
-    public class BaseItemState
+    public enum TradingItemType
     {
-        public string Name { get; set; }
-
+        Player,
+        Shout
     }
 }

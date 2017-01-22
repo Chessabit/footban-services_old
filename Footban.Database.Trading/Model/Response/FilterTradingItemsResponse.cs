@@ -1,4 +1,5 @@
 ﻿using Footban.Database.Trading.Model.Response.Data;
+using Footban.Database.Trading.Model.State;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace Footban.Database.Trading.Model.Response
 {
     public class FilterTradingItemsResponse
     {
-        public IEnumerable<TradingItemData> TradingItems { get; set; }
+        public IEnumerable<TradingItemData> TradingItems { get; set; } 
     }
 }

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Footban.Database.Trading.Model.Base;
+using Footban.Database.Trading.Model.Base.Enumerations;
 
 namespace Footban.Database.Trading.Model.Response.Data
 {
-    public class TradingItemData
+    public class TradingItemData : BaseItemState
     {
+        public TradingItemType Type;
     }
 }

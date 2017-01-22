@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Footban.Database.Trading.Model.Base;
 
 namespace Footban.Database.Trading.Model.State.ItemTypes
 {

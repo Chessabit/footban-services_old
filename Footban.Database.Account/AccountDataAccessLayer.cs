@@ -9,12 +9,12 @@ namespace Footban.Database.Account
     {
         public async Task<HydratePlayerStateResponse> HydrateAsync(int playerId)
         {
-            return await new Hydrate().HydratePlayerStateAsync(playerId);
+            return await new Hydrate().ExecuteAsync(playerId);
         }
 
         public async Task<LogInResponse> LoginAsync(LogInRequest request)
         {
-            return await new LogIn().LogInAsync(request);
+            return await new LogIn().ExecuteAsync(request);
         }
     }
 }

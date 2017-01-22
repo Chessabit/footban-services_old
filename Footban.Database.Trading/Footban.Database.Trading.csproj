@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="ITradingDataAccessLayer.cs" />
     <Compile Include="Methods\HydrateTradingItem.cs" />
+    <Compile Include="Model\Base\Enumerations\TradingItemType.cs" />
     <Compile Include="Model\Request\FilterTradingItemsRequest.cs" />
     <Compile Include="Model\Request\HydrateTradingItemRequest.cs" />
     <Compile Include="Model\Response\Data\TradingItemData.cs" />
@@ -49,7 +50,7 @@
     <Compile Include="Model\Response\HydrateTradingItemResponse.cs" />
     <Compile Include="Model\State\ItemTypes\PlayerCard.cs" />
     <Compile Include="Model\State\TradingItemState.cs" />
-    <Compile Include="Model\State\ItemTypes\BaseItemState.cs" />
+    <Compile Include="Model\Base\BaseItemState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TradingDataAccessLayer.cs" />
   </ItemGroup>
