@@ -43,10 +43,8 @@
     <Compile Include="ITradingDataAccessLayer.cs" />
     <Compile Include="Methods\HydrateShoutCardState.cs" />
     <Compile Include="Methods\HydratePlayerCardState.cs" />
-    <Compile Include="Model\Request\FilterTradingItemsRequest.cs" />
     <Compile Include="Model\Request\HydrateShoutCardStateRequest.cs" />
     <Compile Include="Model\Request\HydratePlayerCardStateRequest.cs" />
-    <Compile Include="Model\Response\FilterTradingItemsResponse.cs" />
     <Compile Include="Model\Response\HydrateShoutCardStateResponse.cs" />
     <Compile Include="Model\Response\HydratePlayerCardStateResponse.cs" />
     <Compile Include="Model\State\PlayerCardState.cs" />
