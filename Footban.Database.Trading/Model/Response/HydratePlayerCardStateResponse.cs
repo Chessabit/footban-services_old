@@ -2,8 +2,8 @@
 
 namespace Footban.Database.Trading.Model.Response
 {
-    public class HydrateTradingItemResponse
+    public class HydratePlayerCardStateResponse
     {
-        public TradingItemState State { get; set; }
+        public PlayerCardState State { get; set; }
     }
 }

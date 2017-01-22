@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Footban.Database.Trading.Model.Request
 {
-    public class FilterTradingItemsRequest
+    public class HydratePlayerCardStateRequest
     {
     }
 }

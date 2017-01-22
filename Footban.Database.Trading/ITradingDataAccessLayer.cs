@@ -6,6 +6,7 @@ namespace Footban.Database.Trading
 {
     public interface ITradingDataAccessLayer
     {
-        Task<HydrateTradingItemResponse> HydrateTradingItem(HydrateTradingItemRequest request);
+        Task<HydratePlayerCardStateResponse> HydratePlayerCardState(HydratePlayerCardStateRequest request);
+        Task<HydrateShoutCardStateResponse> HydrateShoutCardState(HydrateShoutCardStateRequest request);
     }
 }

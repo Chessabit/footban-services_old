@@ -41,16 +41,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ITradingDataAccessLayer.cs" />
-    <Compile Include="Methods\HydrateTradingItem.cs" />
-    <Compile Include="Model\Base\Enumerations\TradingItemType.cs" />
+    <Compile Include="Methods\HydrateShoutCardState.cs" />
+    <Compile Include="Methods\HydratePlayerCardState.cs" />
     <Compile Include="Model\Request\FilterTradingItemsRequest.cs" />
-    <Compile Include="Model\Request\HydrateTradingItemRequest.cs" />
-    <Compile Include="Model\Response\Data\TradingItemData.cs" />
+    <Compile Include="Model\Request\HydrateShoutCardStateRequest.cs" />
+    <Compile Include="Model\Request\HydratePlayerCardStateRequest.cs" />
     <Compile Include="Model\Response\FilterTradingItemsResponse.cs" />
-    <Compile Include="Model\Response\HydrateTradingItemResponse.cs" />
-    <Compile Include="Model\State\ItemTypes\PlayerCard.cs" />
-    <Compile Include="Model\State\TradingItemState.cs" />
-    <Compile Include="Model\Base\BaseItemState.cs" />
+    <Compile Include="Model\Response\HydrateShoutCardStateResponse.cs" />
+    <Compile Include="Model\Response\HydratePlayerCardStateResponse.cs" />
+    <Compile Include="Model\State\PlayerCardState.cs" />
+    <Compile Include="Model\State\BaseItemState.cs" />
+    <Compile Include="Model\State\ShoutCardState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TradingDataAccessLayer.cs" />
   </ItemGroup>
@@ -60,6 +61,7 @@
       <Name>Footban.Database.Common</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

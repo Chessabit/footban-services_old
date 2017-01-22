@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Footban.Database.Trading.Model.Base.Enumerations
+namespace Footban.Database.Trading.Model.Request
 {
-    public enum TradingItemType
+    public class HydrateShoutCardStateRequest
     {
-        Player,
-        Shout
     }
 }

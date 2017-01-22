@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Footban.Database.Trading.Methods
 {
-    public class HydrateTradingItem : DatabaseCommand<HydrateTradingItemRequest, HydrateTradingItemResponse>
+    public class HydrateShoutCardState : DatabaseCommand<HydrateShoutCardStateRequest, HydrateShoutCardStateResponse>
     {
-        public override Task<HydrateTradingItemResponse> ExecuteAsync(HydrateTradingItemRequest request)
+        public override Task<HydrateShoutCardStateResponse> ExecuteAsync(HydrateShoutCardStateRequest request)
         {
             throw new NotImplementedException();
         }
