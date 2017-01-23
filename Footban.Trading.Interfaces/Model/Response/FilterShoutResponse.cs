@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Footban.Trading.Interfaces.Model
+namespace Footban.Trading.Interfaces.Model.Response
 {
-    public class PlayerTradingItem : TradingItem
+    public class FilterShoutResponse
     {
     }
 }

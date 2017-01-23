@@ -7,7 +7,7 @@ namespace Footban.Trading.Interfaces.Grains
     /// <summary>
     /// Grain interface IGrain1
     /// </summary>
-	public interface IShoutTradingItemGrain : ITradingItemGrain<IPlayerItemObserver>, IGrainWithGuidKey
+	public interface IShoutTradingItemGrain : ITradingItemGrain<IShoutItemObserver>, IGrainWithGuidKey
     {
 
     }

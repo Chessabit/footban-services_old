@@ -51,8 +51,10 @@
     <Compile Include="Grains\IPlayerTradingItemGrain.cs" />
     <Compile Include="Grains\ITradingItem.cs" />
     <Compile Include="Grains\ITradingItemLookupGrain.cs" />
-    <Compile Include="Model\PlayerTradingItem.cs" />
-    <Compile Include="Model\TradingItem.cs" />
+    <Compile Include="Model\Request\FilterPlayerRequest.cs" />
+    <Compile Include="Model\Request\FilterShoutRequest.cs" />
+    <Compile Include="Model\Response\FilterPlayerResponse.cs" />
+    <Compile Include="Model\Response\FilterShoutResponse.cs" />
     <Compile Include="Observerables\IShoutItemObserver.cs" />
     <Compile Include="Observerables\IPlayerItemObserver.cs" />
     <Compile Include="Observerables\ITradingItemObserver.cs" />

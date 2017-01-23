@@ -1,4 +1,6 @@
 ﻿using Footban.Trading.Interfaces.Model;
+using Footban.Trading.Interfaces.Model.Request;
+using Footban.Trading.Interfaces.Model.Response;
 using Orleans;
 using System;
 using System.Collections.Generic;
@@ -10,6 +12,7 @@ namespace Footban.Trading.Interfaces.Grains
 {
     public interface ITradingItemLookupGrain : IGrainWithGuidKey
     {
-        Task<List<TradingItem>> FilterTradingItems(TradingItem tradingItemDelta);
+        Task<FilterPlayerResponse> FilterPlayerCards(FilterPlayerRequest request);
+        Task<FilterShoutResponse> FilterShoutCards(FilterShoutRequest request);
     }
 }
